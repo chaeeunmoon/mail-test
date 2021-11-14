@@ -83,5 +83,6 @@ button {
   border: none;
   border-radius: 8px;
   padding: 0.6em;
+  margin-top: 0.5em;
 }
 </style>
