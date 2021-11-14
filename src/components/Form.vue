@@ -65,6 +65,9 @@ export default {
             ]
         };
         xhr.send( JSON.stringify(payload));   
+    },
+    sendMail(){
+      
     }
 
       
